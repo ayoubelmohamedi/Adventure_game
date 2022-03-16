@@ -9,4 +9,5 @@ To assure winning the game, you would have to be equiped with the right armors.
 
 ### The MAP
 
-![](https://raw.githubusercontent.com/ayoubelmohamedi/Adventure_game/main/GameMap.drawio.png?token=GHSAT0AAAAAABRCX2PMQRRXH6SJ4ACGXTBOYRSNU3A)
+
+![](https://github.com/ayoubelmohamedi/Adventure_game/blob/main/GameMap.drawio.png?raw=true)
